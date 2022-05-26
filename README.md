@@ -1,0 +1,2 @@
+# GlobalAutomation
+Technical test
